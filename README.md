@@ -19,7 +19,7 @@
 
 Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **ways it can improve your life**. This is a community collection of real-life use cases for [OpenClaw](https://github.com/openclaw/openclaw).
 
-> **Warning:** OpenClaw skills may have critical security vulnerabilities. Review any skill thoroughly before use, you are responsible for your own safety.
+> **Warning:** OpenClaw skills and third-party dependencies referenced here may have critical security vulnerabilities. Many use cases link to community-built skills, plugins, and external repos that have **not been audited by the maintainer of this list**. Always review skill source code, check requested permissions, and avoid hardcoding API keys or credentials. You are solely responsible for your own security.
 
 
 ## Social Media
